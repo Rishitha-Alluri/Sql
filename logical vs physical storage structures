@@ -1,0 +1,12 @@
+Physical Database:
+->The physical DBA is the professional responsible for installing, upgrading, migrating, and maintaining the DBMS. 
+->To be a physical DBA, you don't need to have a deep understanding of the purpose of the database or what exactly the application and users are storing inside the tables.
+->The business purpose of the database is a subject that doesn't directly concern the physical DBA. 
+->The physical data model provides a low-level concept that describes the details of how data is stored on the computer. 
+->The physical model is extremely important since it supports the detailed functionality of the DBMS, including how it will save and retrieve data from the disk/storage.
+
+Logical Database:
+->A logical database is responsible for generating the database model and tables design, defining the model of the database objects, and creating procedures and functions for the application and its users.
+->The logical DBA usually works closely with the application owner and developers to define the structure of the database model. 
+->The logical database model is a set of conceptual tools used to describe data and their relationship and restriction of consistency and integrity.
+->Logical storage structures are managed and handled only by Oracle Database, an operating system cannot see them.
